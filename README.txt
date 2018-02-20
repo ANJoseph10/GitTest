@@ -1,1 +1,2 @@
-This is a test for Git
+Stuff about Read Me
+Test for Git
